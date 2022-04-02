@@ -1,6 +1,6 @@
 {
     "name": "parcel-transformer-plaintext",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "license": "MIT",
     "description": "Parcel v2 plugin that interpolates ENV in HTML files",
     "keywords": [
