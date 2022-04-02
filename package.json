@@ -1,0 +1,20 @@
+{
+    "name": "parcel-transformer-plaintext",
+    "version": "0.0.1",
+    "license": "MIT",
+    "description": "Parcel v2 plugin that interpolates ENV in HTML files",
+    "keywords": [
+        "parcel",
+        "parcel-plugin",
+        "plaintext",
+        "plain-text",
+        "cookie-popup"
+    ],
+    "main": "./src/PlaintextTransformer.js",
+    "engines": {
+        "parcel": "2.x"
+    },
+    "dependencies": {
+        "@parcel/plugin": "^2.4.1"
+    }
+}
