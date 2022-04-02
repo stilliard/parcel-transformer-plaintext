@@ -10,6 +10,11 @@
         "plain-text",
         "cookie-popup"
     ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/stilliard/parcel-transformer-plaintext.git"
+    },
+    "homepage": "https://github.com/stilliard/parcel-transformer-plaintext",
     "main": "./src/PlaintextTransformer.js",
     "engines": {
         "parcel": "2.x"
